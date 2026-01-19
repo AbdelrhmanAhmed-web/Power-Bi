@@ -68,4 +68,4 @@ This dashboard serves as a strategic tool for any coffee shop owner looking to b
 ------
 
 ## Links : 
-### [My LinkedIn Profile](www.linkedin.com/in/abdelrhman-ahmed-b83b10366)
+### [My LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-ahmed-b83b10366)
