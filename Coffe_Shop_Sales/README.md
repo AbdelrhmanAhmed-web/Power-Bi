@@ -1,5 +1,5 @@
 # Coffee Shop Sales Report :
-![DashBoard](/Coffe%20Shop%20sales%201.png)
+![DashBoard](/Coffe_Shop_Sales/Coffe%20Shop%20sales%201.png)
 ## Introduction :
 
     This repository contains a comprehensive Power BI project focused on analyzing sales performance and customer behavior for a Coffee Shop. The primary goal of this project is to transform raw data into actionable insights, helping stakeholders monitor key performance indicators (KPIs) and make data-driven decisions to enhance business growth.
@@ -27,7 +27,7 @@
 --------------------------
 
 # 📊 DashBoard Overview:
-- ![DashBoard](/Coffe%20Shop%20sales%201.png)
+- ![DashBoard](/Coffe_Shop_Sales/Coffe%20Shop%20sales%201.png)
 
 ## The dashboard is designed to provide a comprehensive view of the coffee shop’s performance, transforming transactional data into strategic insights. It focuses on three main pillars: Sales Efficiency, Product Demand, and Time-Based Trends.
 
