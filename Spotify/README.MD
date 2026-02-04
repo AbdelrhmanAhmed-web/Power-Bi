@@ -18,6 +18,11 @@ This Power BI dashboard provides a deep dive into personal Spotify listening hab
 * **Language:** DAX (Data Analysis Expressions)
 * **Data Source:** Spotify Personal Data Export (CSV)
 
+## Dashboard Snapshots:
+![Project_Overview](/Spotify/Spotify_Overview.png)
+![Listening_Patterns](/Spotify/Spotify_Listening%20Patterns.png)
+![Details](/Spotify/Spotify_Details%20.png)
+
 ## 📊 Visuals Included
 1.  **Executive Summary:** KPIs for total minutes played, top artists, and unique tracks.
 2.  **Listening Patterns:** A sophisticated scatter plot to identify "High Frequency" vs. "High Duration" songs.
